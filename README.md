@@ -16,3 +16,7 @@ Thanks for your comment Carrie.
 
 ## Comment from Zijia Hu (zh1130) 
 It is a very concise while informative podcast. I found it interesting that how the guest, Cassidy Williams, talked so mamy details within just 30 minutes. It really makes me looking forward to learning React in this semester.
+
+***
+Thanks for your comment Zijia.
+
